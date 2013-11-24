@@ -1,3 +1,16 @@
+#Private files
+people_and_groups.txt
+pass_file.txt
+*.txt
+*.pdf
+*.htm
+*.html
+
+#Archives
+*.7z
+*.zip
+*.tar.*
+
 *.py[cod]
 
 # C extensions
